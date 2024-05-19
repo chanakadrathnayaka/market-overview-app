@@ -25,6 +25,8 @@ Open the browser and visit [localhost:3000](http://localhost:3000/)
 
 ## Maintenance
 ### Do not make changes to the source code in this repository
-Clone the source repositories to your local and make your changes.
+Clone the source repositories to your local and make your changes. 
+You may notice that the HEAD of the source repositories are detached. 
+And they are meant to be that way.
 ### Update the submodules
 Run `git submodule update --remote` to keep the submodules up to date in this repository.
