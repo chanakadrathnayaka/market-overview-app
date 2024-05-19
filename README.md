@@ -9,8 +9,10 @@ But if you are rather interested in the source code, they can be found below.
 
 ## Getting started
 ### 1. Clone the repository
+Run `git clone git@github.com:chanakadrathnayaka/market-overview-app.git`
 
 ### 2. Initialize and Update the submodules
+Go to market-overview-app, `cd market-overview-app` and
 Run `git submodule update --init --recursive`
 
 ## Run the application
