@@ -22,7 +22,7 @@ If not start docker
 ### 2. Start the application
 Make sure port **_3000_** is free. And then, Run `docker-compose up --build`
 
-### 3.Access the application
+### 3. Access the application
 Open the browser and visit [localhost:3000](http://localhost:3000/)
 
 ## Complete Architecture
