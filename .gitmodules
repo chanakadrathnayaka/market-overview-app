@@ -1,6 +1,6 @@
 [submodule "market-overview"]
 	path = market-overview
-	url = git@github.com:chanakadrathnayaka/market-overview.git
+	url = https://github.com/chanakadrathnayaka/market-overview.git
 [submodule "market-overview-web"]
 	path = market-overview-web
-	url = git@github.com:chanakadrathnayaka/market-overview-web.git
+	url = https://github.com/chanakadrathnayaka/market-overview-web.git
